@@ -8,7 +8,7 @@ Clone the project on your local machine by forking and cloning this respository.
 
 ```$ git clone <SSH link>```
 
-If you are following Phuc's tutorial, you should have already downloaded [anacanda](https://www.anaconda.com/) and [beautiful soup](https://pypi.org/project/beautifulsoup4/). If not, I recommend downloading the two before proceeding. 
+If you are following Phuc's tutorial, you should have already downloaded [Anaconda](https://www.anaconda.com/) and [beautiful soup](https://pypi.org/project/beautifulsoup4/). If not, I recommend downloading the two before proceeding. 
 
 **On a mac** 
 Open the project folder and right-click the **script.py** file. Open with the **Python Launcher** option.
